@@ -1,6 +1,6 @@
 """
 Autorzy:
-Prętki, Mikołaj (s122982)
+Prętki, Mikołaj (s22982)
 Hołdakowski, Mikołaj (s23739)
 System planowania zmiany biegów przy użyciu fuzzy logic
 na podstawie danych prędkości, obrotów silnika, stopnia wciśnięcia gazu i trybu jazdy
